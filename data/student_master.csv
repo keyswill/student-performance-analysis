@@ -1,0 +1,121 @@
+﻿Student ID,First Name,Last Name,Grade,Gender,Race/Ethnicity,IEP,ELL
+STU0001,Nia,Taylor,6,Non-binary,Black/African American,No,No
+STU0002,Hana,Wilson,8,Female,Hispanic/Latino,Yes,No
+STU0003,Ivan,Harris,8,Non-binary,Hispanic/Latino,No,No
+STU0004,Darius,Johnson,6,Non-binary,Hispanic/Latino,No,No
+STU0005,Fatima,Wilson,7,Male,Black/African American,No,No
+STU0006,Carlos,Carter,6,Female,Black/African American,No,No
+STU0007,William,Perez,6,Non-binary,White,No,No
+STU0008,Camille,Garcia,6,Female,Hispanic/Latino,No,No
+STU0009,Marcus,Robinson,8,Non-binary,Hispanic/Latino,No,Yes
+STU0010,Jasmine,Green,7,Female,Hispanic/Latino,No,No
+STU0011,Blake,Davis,6,Male,Hispanic/Latino,No,Yes
+STU0012,Jade,Hall,6,Non-binary,Hispanic/Latino,No,No
+STU0013,Hannah,Lee,8,Non-binary,Hispanic/Latino,No,No
+STU0014,William,Garcia,6,Non-binary,Hispanic/Latino,No,No
+STU0015,Jasmine,Hill,8,Male,Black/African American,No,No
+STU0016,Ivan,Johnson,8,Non-binary,Hispanic/Latino,No,No
+STU0017,Umar,Taylor,7,Female,Hispanic/Latino,Yes,No
+STU0018,Fatou,White,8,Male,Black/African American,No,No
+STU0019,Isaiah,Hernandez,6,Non-binary,White,No,No
+STU0020,Elijah,Williams,6,Female,Hispanic/Latino,No,No
+STU0021,Jade,Wilson,6,Non-binary,White,Yes,No
+STU0022,Hannah,Adams,8,Male,Black/African American,No,No
+STU0023,Hana,Harris,8,Female,Hispanic/Latino,No,No
+STU0024,Brianna,Taylor,6,Male,Hispanic/Latino,Yes,No
+STU0025,Aiden,Miller,8,Non-binary,Multiracial,Yes,Yes
+STU0026,Fatou,Lee,7,Non-binary,Hispanic/Latino,No,No
+STU0027,Jade,Adams,6,Female,Hispanic/Latino,No,Yes
+STU0028,Andre,Lopez,7,Non-binary,Hispanic/Latino,No,No
+STU0029,Uma,Allen,6,Male,White,No,Yes
+STU0030,Carlos,Lee,6,Female,Black/African American,No,Yes
+STU0031,Hana,Johnson,6,Male,White,No,No
+STU0032,Chloe,Jackson,7,Male,Black/African American,No,No
+STU0033,Andre,Mitchell,8,Non-binary,Hispanic/Latino,No,No
+STU0034,Victor,Carter,6,Non-binary,Multiracial,Yes,No
+STU0035,Gregory,Jackson,6,Non-binary,Hispanic/Latino,No,No
+STU0036,Omar,Wright,6,Non-binary,Black/African American,No,No
+STU0037,Kofi,Perez,8,Female,White,No,No
+STU0038,Yusuf,Anderson,8,Non-binary,Black/African American,No,No
+STU0039,Carlos,Phillips,8,Male,White,No,No
+STU0040,DeShawn,Lee,7,Female,Black/African American,No,No
+STU0041,Zach,Nelson,6,Non-binary,Black/African American,No,No
+STU0042,Hannah,Perez,6,Male,Hispanic/Latino,No,No
+STU0043,Umar,Martin,8,Non-binary,Hispanic/Latino,No,No
+STU0044,Chloe,Wilson,8,Female,Hispanic/Latino,Yes,No
+STU0045,Priya,Jackson,8,Female,Hispanic/Latino,No,Yes
+STU0046,Simone,Thomas,8,Male,Hispanic/Latino,No,Yes
+STU0047,Samuel,Hernandez,6,Female,Hispanic/Latino,No,Yes
+STU0048,Darius,Lopez,8,Non-binary,Hispanic/Latino,No,No
+STU0049,Zach,White,7,Male,Black/African American,No,No
+STU0050,Penny,Lee,7,Male,Hispanic/Latino,Yes,No
+STU0051,Nadia,Harris,7,Female,Hispanic/Latino,No,No
+STU0052,Layla,Wright,7,Female,Hispanic/Latino,No,No
+STU0053,Yusuf,Carter,7,Male,Hispanic/Latino,No,Yes
+STU0054,Priya,Brown,6,Non-binary,Asian,No,No
+STU0055,Fatou,Taylor,7,Non-binary,Black/African American,Yes,No
+STU0056,Zach,Carter,8,Non-binary,Black/African American,No,Yes
+STU0057,Penny,Allen,8,Female,Hispanic/Latino,Yes,No
+STU0058,Penny,Lopez,7,Female,Black/African American,No,Yes
+STU0059,Xiomara,White,8,Non-binary,Hispanic/Latino,No,Yes
+STU0060,Andre,Roberts,8,Non-binary,Hispanic/Latino,No,No
+STU0061,Yasmine,Jackson,8,Male,Other,No,No
+STU0062,Wendy,Lee,8,Female,Black/African American,No,Yes
+STU0063,Diana,Phillips,6,Female,Black/African American,No,Yes
+STU0064,Elijah,Wright,6,Male,Black/African American,Yes,No
+STU0065,Fatima,Hill,6,Male,White,No,No
+STU0066,Camille,Taylor,7,Male,Black/African American,No,No
+STU0067,Wendy,Scott,8,Non-binary,Hispanic/Latino,No,No
+STU0068,Jasmine,Adams,7,Female,Hispanic/Latino,No,No
+STU0069,Elijah,Lee,7,Female,Hispanic/Latino,No,No
+STU0070,Hana,Wilson,6,Male,Hispanic/Latino,No,No
+STU0071,Zoe,Allen,8,Female,Hispanic/Latino,No,No
+STU0072,Kofi,Williams,8,Female,Multiracial,No,No
+STU0073,Blake,Lopez,8,Non-binary,White,No,No
+STU0074,Quincy,Hill,7,Male,Hispanic/Latino,No,No
+STU0075,Blake,Green,6,Non-binary,Black/African American,No,No
+STU0076,Elena,Hill,6,Female,Hispanic/Latino,No,No
+STU0077,Umar,King,7,Female,Asian,Yes,Yes
+STU0078,Vanessa,Garcia,8,Male,Hispanic/Latino,No,No
+STU0079,Layla,Williams,8,Male,Hispanic/Latino,No,Yes
+STU0080,Carlos,Perez,7,Male,Hispanic/Latino,No,No
+STU0081,Jasmine,Walker,6,Non-binary,Black/African American,No,No
+STU0082,Yusuf,Harris,6,Non-binary,Hispanic/Latino,No,Yes
+STU0083,Camille,Turner,6,Non-binary,Black/African American,No,No
+STU0084,Fatou,Allen,6,Female,White,Yes,No
+STU0085,Blake,Green,8,Male,Hispanic/Latino,No,No
+STU0086,Zach,Carter,7,Female,Hispanic/Latino,No,No
+STU0087,Blake,Wilson,7,Female,Other,No,No
+STU0088,Amara,Baker,7,Male,Hispanic/Latino,No,No
+STU0089,Lena,Robinson,8,Male,Hispanic/Latino,No,No
+STU0090,Ivan,Lee,8,Female,Hispanic/Latino,No,No
+STU0091,Nadia,Wright,8,Male,Hispanic/Latino,No,No
+STU0092,Andre,Mitchell,7,Female,Black/African American,No,No
+STU0093,Layla,Hall,6,Non-binary,Black/African American,No,Yes
+STU0094,Diana,Robinson,8,Non-binary,Hispanic/Latino,No,No
+STU0095,Layla,Lewis,6,Female,Hispanic/Latino,Yes,No
+STU0096,Chloe,Mitchell,7,Non-binary,Hispanic/Latino,No,No
+STU0097,Aiden,Perez,7,Female,Other,No,No
+STU0098,Darius,Adams,6,Male,Hispanic/Latino,Yes,No
+STU0099,Isaiah,Perez,7,Male,Multiracial,Yes,No
+STU0100,Yasmine,Phillips,6,Non-binary,White,No,No
+STU0101,Andre,Walker,8,Non-binary,Hispanic/Latino,No,Yes
+STU0102,Nia,Martin,7,Non-binary,Black/African American,No,No
+STU0103,Zoe,Scott,8,Non-binary,Black/African American,Yes,No
+STU0104,Darius,Green,6,Non-binary,Hispanic/Latino,No,No
+STU0105,Zach,Harris,7,Male,Hispanic/Latino,No,No
+STU0106,DeShawn,Davis,6,Female,Black/African American,No,No
+STU0107,Carlos,Walker,8,Female,Hispanic/Latino,No,No
+STU0108,Brandon,Hill,8,Female,Hispanic/Latino,Yes,No
+STU0109,Darius,Perez,8,Male,Hispanic/Latino,No,No
+STU0110,Wendy,White,7,Non-binary,Multiracial,No,Yes
+STU0111,Nia,Baker,6,Female,White,No,No
+STU0112,Umar,Lopez,8,Female,Hispanic/Latino,No,No
+STU0113,Carlos,Wilson,7,Female,Hispanic/Latino,No,No
+STU0114,Aiden,Carter,7,Female,Hispanic/Latino,No,No
+STU0115,Brianna,Davis,6,Female,Asian,No,No
+STU0116,Gabriel,Williams,8,Non-binary,White,No,No
+STU0117,Zoe,Wilson,6,Male,Hispanic/Latino,Yes,No
+STU0118,Theo,Lewis,8,Non-binary,Black/African American,No,No
+STU0119,Ivan,Thomas,7,Male,Black/African American,No,No
+STU0120,Quincy,Lopez,7,Non-binary,Hispanic/Latino,Yes,No
