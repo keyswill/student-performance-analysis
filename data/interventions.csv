@@ -1,0 +1,120 @@
+﻿Student ID,Quarter Started,Period,Intervention Type,Focus Area,Status,Outcome
+STU0005,Q1,Q1 2023,Behavior Plan,Behavioral,Active,Improving
+STU0005,Q3,Q3 2023,Mentor Match,Behavioral,Completed,Exited - Met Goal
+STU0012,Q4,Q4 2023,Small Group Tutoring,Attendance,Active,No Change
+STU0012,Q3,Q3 2023,Counselor Referral,Academic,Completed,Improving
+STU0012,Q4,Q4 2023,Parent Conference,Behavioral,Discontinued,Stable
+STU0014,Q1,Q1 2023,Behavior Plan,Behavioral,Active,Improving
+STU0014,Q1,Q1 2023,Counselor Referral,Academic,Active,Exited - Met Goal
+STU0014,Q1,Q1 2023,Mentor Match,Behavioral,Discontinued,Improving
+STU0014,Q1,Q1 2023,Lunch Check-in,Attendance,Completed,Stable
+STU0017,Q4,Q4 2023,Reading Support,Academic,Active,Improving
+STU0017,Q2,Q2 2023,Parent Conference,Attendance,Completed,Improving
+STU0018,Q4,Q4 2023,Reading Support,Academic,Active,Stable
+STU0018,Q3,Q3 2023,Behavior Plan,Behavioral,Active,Improving
+STU0018,Q3,Q3 2023,Lunch Check-in,Social-Emotional,Completed,Improving
+STU0018,Q4,Q4 2023,Behavior Plan,Social-Emotional,Discontinued,Improving
+STU0020,Q2,Q2 2023,Mentor Match,Social-Emotional,Active,Stable
+STU0020,Q3,Q3 2023,Behavior Plan,Social-Emotional,Active,No Change
+STU0020,Q1,Q1 2023,Reading Support,Academic,Active,Improving
+STU0020,Q4,Q4 2023,Math Support,Academic,Completed,No Change
+STU0022,Q4,Q4 2023,Math Support,Social-Emotional,Active,Improving
+STU0022,Q1,Q1 2023,Reading Support,Academic,Discontinued,Stable
+STU0022,Q2,Q2 2023,Math Support,Behavioral,Active,Stable
+STU0022,Q4,Q4 2023,Math Support,Behavioral,Completed,Improving
+STU0027,Q4,Q4 2023,Mentor Match,Attendance,Completed,Exited - Met Goal
+STU0027,Q1,Q1 2023,Parent Conference,Academic,Completed,Improving
+STU0027,Q1,Q1 2023,Lunch Check-in,Academic,Completed,Exited - Met Goal
+STU0027,Q3,Q3 2023,Parent Conference,Attendance,Active,Stable
+STU0028,Q1,Q1 2023,Reading Support,Attendance,Completed,Stable
+STU0028,Q4,Q4 2023,Small Group Tutoring,Social-Emotional,Discontinued,Improving
+STU0028,Q2,Q2 2023,Small Group Tutoring,Social-Emotional,Discontinued,Exited - Met Goal
+STU0028,Q1,Q1 2023,Mentor Match,Attendance,Active,No Change
+STU0029,Q2,Q2 2023,Reading Support,Attendance,Discontinued,Stable
+STU0031,Q1,Q1 2023,Math Support,Social-Emotional,Active,No Change
+STU0031,Q4,Q4 2023,Mentor Match,Academic,Completed,Improving
+STU0031,Q3,Q3 2023,Parent Conference,Behavioral,Completed,Stable
+STU0031,Q1,Q1 2023,Reading Support,Behavioral,Discontinued,Improving
+STU0032,Q4,Q4 2023,Small Group Tutoring,Attendance,Completed,Improving
+STU0033,Q4,Q4 2023,Lunch Check-in,Academic,Active,Stable
+STU0033,Q4,Q4 2023,Reading Support,Social-Emotional,Completed,Improving
+STU0033,Q2,Q2 2023,Counselor Referral,Academic,Active,Improving
+STU0033,Q2,Q2 2023,Math Support,Behavioral,Completed,No Change
+STU0035,Q1,Q1 2023,Small Group Tutoring,Social-Emotional,Discontinued,Stable
+STU0035,Q1,Q1 2023,Math Support,Attendance,Completed,Exited - Met Goal
+STU0035,Q3,Q3 2023,Parent Conference,Social-Emotional,Discontinued,Stable
+STU0035,Q2,Q2 2023,Behavior Plan,Attendance,Completed,No Change
+STU0037,Q1,Q1 2023,Mentor Match,Attendance,Active,Improving
+STU0038,Q3,Q3 2023,Counselor Referral,Attendance,Discontinued,Improving
+STU0042,Q2,Q2 2023,Reading Support,Behavioral,Discontinued,No Change
+STU0042,Q4,Q4 2023,Mentor Match,Behavioral,Completed,No Change
+STU0042,Q3,Q3 2023,Counselor Referral,Social-Emotional,Completed,No Change
+STU0044,Q3,Q3 2023,Math Support,Social-Emotional,Discontinued,No Change
+STU0044,Q3,Q3 2023,Reading Support,Behavioral,Active,Stable
+STU0045,Q2,Q2 2023,Mentor Match,Academic,Active,Improving
+STU0045,Q3,Q3 2023,Parent Conference,Attendance,Active,Stable
+STU0045,Q4,Q4 2023,Lunch Check-in,Social-Emotional,Active,Stable
+STU0046,Q4,Q4 2023,Math Support,Academic,Discontinued,Improving
+STU0049,Q2,Q2 2023,Reading Support,Behavioral,Active,Exited - Met Goal
+STU0051,Q2,Q2 2023,Mentor Match,Behavioral,Completed,Stable
+STU0051,Q2,Q2 2023,Mentor Match,Academic,Active,Improving
+STU0051,Q2,Q2 2023,Reading Support,Social-Emotional,Completed,No Change
+STU0051,Q2,Q2 2023,Parent Conference,Social-Emotional,Completed,Exited - Met Goal
+STU0054,Q3,Q3 2023,Small Group Tutoring,Attendance,Completed,Stable
+STU0054,Q1,Q1 2023,Small Group Tutoring,Behavioral,Active,Exited - Met Goal
+STU0056,Q2,Q2 2023,Lunch Check-in,Academic,Active,Improving
+STU0056,Q3,Q3 2023,Parent Conference,Behavioral,Active,Exited - Met Goal
+STU0056,Q3,Q3 2023,Math Support,Behavioral,Discontinued,Exited - Met Goal
+STU0058,Q2,Q2 2023,Small Group Tutoring,Behavioral,Active,No Change
+STU0058,Q1,Q1 2023,Parent Conference,Attendance,Completed,Stable
+STU0060,Q1,Q1 2023,Small Group Tutoring,Academic,Completed,Improving
+STU0061,Q4,Q4 2023,Reading Support,Behavioral,Completed,Stable
+STU0061,Q3,Q3 2023,Parent Conference,Academic,Completed,Improving
+STU0061,Q2,Q2 2023,Parent Conference,Academic,Completed,Stable
+STU0062,Q1,Q1 2023,Lunch Check-in,Social-Emotional,Active,Improving
+STU0062,Q3,Q3 2023,Math Support,Attendance,Completed,Improving
+STU0062,Q1,Q1 2023,Behavior Plan,Behavioral,Completed,Stable
+STU0063,Q1,Q1 2023,Lunch Check-in,Social-Emotional,Active,Improving
+STU0067,Q2,Q2 2023,Behavior Plan,Attendance,Active,Improving
+STU0067,Q2,Q2 2023,Small Group Tutoring,Attendance,Active,No Change
+STU0067,Q4,Q4 2023,Lunch Check-in,Academic,Discontinued,Exited - Met Goal
+STU0069,Q2,Q2 2023,Mentor Match,Attendance,Discontinued,Exited - Met Goal
+STU0069,Q3,Q3 2023,Lunch Check-in,Attendance,Completed,Improving
+STU0070,Q4,Q4 2023,Behavior Plan,Attendance,Completed,No Change
+STU0070,Q4,Q4 2023,Parent Conference,Behavioral,Active,No Change
+STU0070,Q1,Q1 2023,Reading Support,Academic,Completed,Stable
+STU0070,Q4,Q4 2023,Reading Support,Social-Emotional,Completed,Stable
+STU0085,Q1,Q1 2023,Math Support,Attendance,Completed,No Change
+STU0085,Q1,Q1 2023,Parent Conference,Behavioral,Completed,No Change
+STU0085,Q4,Q4 2023,Reading Support,Academic,Active,Exited - Met Goal
+STU0090,Q1,Q1 2023,Behavior Plan,Attendance,Active,Exited - Met Goal
+STU0090,Q1,Q1 2023,Math Support,Social-Emotional,Completed,Improving
+STU0092,Q1,Q1 2023,Behavior Plan,Social-Emotional,Active,Exited - Met Goal
+STU0092,Q1,Q1 2023,Lunch Check-in,Social-Emotional,Completed,Stable
+STU0092,Q1,Q1 2023,Lunch Check-in,Attendance,Discontinued,Stable
+STU0092,Q4,Q4 2023,Mentor Match,Attendance,Completed,No Change
+STU0093,Q3,Q3 2023,Behavior Plan,Attendance,Completed,Improving
+STU0093,Q2,Q2 2023,Small Group Tutoring,Attendance,Active,Stable
+STU0093,Q3,Q3 2023,Mentor Match,Academic,Active,Improving
+STU0093,Q2,Q2 2023,Parent Conference,Academic,Active,Improving
+STU0094,Q4,Q4 2023,Math Support,Social-Emotional,Completed,Improving
+STU0096,Q1,Q1 2023,Lunch Check-in,Social-Emotional,Completed,Stable
+STU0096,Q2,Q2 2023,Behavior Plan,Academic,Completed,Improving
+STU0096,Q4,Q4 2023,Behavior Plan,Behavioral,Completed,Improving
+STU0096,Q2,Q2 2023,Lunch Check-in,Social-Emotional,Completed,Stable
+STU0098,Q4,Q4 2023,Math Support,Attendance,Active,Improving
+STU0098,Q3,Q3 2023,Behavior Plan,Behavioral,Active,Stable
+STU0098,Q3,Q3 2023,Mentor Match,Behavioral,Active,Stable
+STU0098,Q3,Q3 2023,Mentor Match,Behavioral,Discontinued,No Change
+STU0102,Q1,Q1 2023,Mentor Match,Social-Emotional,Completed,Exited - Met Goal
+STU0102,Q4,Q4 2023,Counselor Referral,Social-Emotional,Completed,Stable
+STU0102,Q1,Q1 2023,Parent Conference,Behavioral,Active,Improving
+STU0103,Q3,Q3 2023,Counselor Referral,Behavioral,Completed,No Change
+STU0103,Q3,Q3 2023,Math Support,Academic,Active,Stable
+STU0107,Q4,Q4 2023,Math Support,Attendance,Completed,Improving
+STU0107,Q4,Q4 2023,Parent Conference,Social-Emotional,Discontinued,Exited - Met Goal
+STU0109,Q1,Q1 2023,Counselor Referral,Behavioral,Completed,No Change
+STU0116,Q2,Q2 2023,Counselor Referral,Social-Emotional,Active,No Change
+STU0116,Q2,Q2 2023,Reading Support,Academic,Active,Stable
+STU0118,Q2,Q2 2023,Counselor Referral,Academic,Active,No Change
+STU0118,Q2,Q2 2023,Small Group Tutoring,Behavioral,Discontinued,Stable
