@@ -1,1 +1,4 @@
 This folder contains raw and cleaned datasets used for the Student Performance Analysis Project.
+
+Data Disclaimer
+The datasets used in this project is synthetic data generated with the assistance of AI (Claude) for demonstration and portfolio purposes only. It does not represent real students, institutions, or actual academic records. Any names, IDs, scores, or other values are fictional and were created solely to simulate a realistic dataset for practicing data analysis, SQL, and dashboard-building techniques. No real student data, personally identifiable information, or FERPA-protected records were used in the creation of this project.
