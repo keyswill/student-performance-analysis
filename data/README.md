@@ -1,1 +1,1 @@
-This folder contains raw and cleaned datasets used for the HR Analytics Project.
+This folder contains raw and cleaned datasets used for the Student Performance Analysis Project.
