@@ -57,11 +57,15 @@ Tracks average grades, attendance, proficiency levels, behavior incidents, and
 grade-level trends. The attendance-versus-grade view highlights students whose
 attendance and performance warrant review.
 
+![Quarterly Overview dashboard](dashboard/quarterly-overview.png)
+
 ### 2. Equity and Subgroup Analysis
 
 Compares quarterly performance for IEP and ELL groups, summarizes demographic
 representation, and reviews intervention outcomes. Small subgroup sizes are
 shown as context and should limit generalization.
+
+![Equity and Subgroup Analysis dashboard](dashboard/equity-subgroup-analysis.png)
 
 ### 3. Individual Student Overview
 
@@ -69,9 +73,9 @@ Combines a selected student's grades, attendance, behavior history, and
 interventions in one view. This supports investigation and conversation; it is
 not an automated decision system.
 
-[Download the packaged Tableau workbook](dashboard/Student%20Performance%20Dashboard.twbx)
+![Individual Student Overview dashboard](dashboard/individual-student-overview.png)
 
-![Quarterly Overview dashboard](dashboard/quarterly-overview.png)
+[Download the packaged Tableau workbook](dashboard/Student%20Performance%20Dashboard.twbx)
 
 ## Validated Findings
 

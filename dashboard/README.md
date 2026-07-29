@@ -19,7 +19,17 @@ in Tableau.
 
 ## Dashboard Preview
 
+### Quarterly Overview
+
 ![Quarterly Overview dashboard](quarterly-overview.png)
+
+### Equity and Subgroup Analysis
+
+![Equity and Subgroup Analysis dashboard](equity-subgroup-analysis.png)
+
+### Individual Student Overview
+
+![Individual Student Overview dashboard](individual-student-overview.png)
 
 ## Design Notes
 
