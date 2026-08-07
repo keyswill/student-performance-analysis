@@ -40,6 +40,8 @@ Administrators need a repeatable way to answer four questions:
 The dashboard is an early-warning and decision-support tool. It does not diagnose
 causes or claim that an intervention produced a student's outcome.
 
+See the complete [Phase 2 Business Understanding](docs/02_business_understanding.md) and [Phase 3 Data Understanding](docs/03_data_understanding.md).
+
 ## Stakeholders and Decisions
 
 | Stakeholder | Decision Supported |
@@ -123,6 +125,8 @@ not an automated decision system.
 | [`data/`](data/) | Five CSV datasets, data dictionary, and relationship notes |
 | [`docs/business-requirements.md`](docs/business-requirements.md) | Stakeholders, decisions, requirements, and acceptance criteria |
 | [`docs/validated-analysis.md`](docs/validated-analysis.md) | Reconciled metrics, caveats, and claim corrections |
+| [`docs/02_business_understanding.md`](docs/02_business_understanding.md) | Business decision, stakeholders, success measures, and claim boundaries |
+| [`docs/03_data_understanding.md`](docs/03_data_understanding.md) | Dataset grains, relationships, field roles, and analytical readiness |
 
 ## Limitations
 
